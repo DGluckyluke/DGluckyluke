@@ -1,4 +1,4 @@
-# Hello There, I'm Test - aka [Tester][youtube] 👋
+# Hello There 👋
 
 ## I'm a Fullstack Web Developer and Designer
 
